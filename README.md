@@ -1,2 +1,2 @@
 # study-notes-linux-notes-embedded-notes
-Linux-beginer
+Mastering Linux: The Comprehensive Guide
